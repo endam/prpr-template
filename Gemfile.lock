@@ -12,8 +12,6 @@ GEM
       hashie
       octokit
       sinatra
-    prpr-mention_comment (0.1.1)
-      prpr
     prpr-mention_reviewers (0.1.1)
       prpr
     prpr-slack (0.1.1)
@@ -37,7 +35,6 @@ PLATFORMS
 
 DEPENDENCIES
   prpr
-  prpr-mention_comment
   prpr-mention_reviewers
   prpr-slack
 
