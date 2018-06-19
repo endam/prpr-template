@@ -3,6 +3,6 @@ ruby '2.2.3'
 
 gem 'prpr'
 gem 'prpr-slack'
-gem 'prpr-mention_comment'
+#gem 'prpr-mention_comment'
 gem 'prpr-mention_reviewers'
 #gem 'prpr-checklist'
