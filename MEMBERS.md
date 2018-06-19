@@ -1,4 +1,4 @@
-* @masuichig: @masu1
+* @masuichig: @masuichig
 * @oshima: @jihan
 * @endam: @damasa
 * @gooshima: @gou
