@@ -1,3 +1,3 @@
 * @masuichig: @masuichig
 * @oshima: @jihan
-* @endam: @damasa
+* @damasa: @endam
