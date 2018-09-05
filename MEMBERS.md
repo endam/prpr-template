@@ -1,6 +1,6 @@
 * @masuichig: @masuichig
-* @oshima: @jihan
 * @endam: @damasa
-* @gooshima: @gou
 * @mukoyamak-isao: @koichi
 * @stephen1807: @stephenr
+* @OOchan: @maruchan
+* @suzukih3: @suzuki
